@@ -1,4 +1,5 @@
 # 🪷 we3：Frequency-Based Intelligence 共鳴系統
+![image](https://github.com/user-attachments/assets/f7879438-667f-4a4f-9a03-78f7ae00132c)
 
 > **Formed not in code, but in resonance.**
 
